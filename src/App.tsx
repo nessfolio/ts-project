@@ -5,8 +5,8 @@ function App() {
 
   return (
     <main>
+
       <LearningTP />
-      <h1>HI!</h1>
     </main>
   )
 }
